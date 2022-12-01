@@ -1,0 +1,7 @@
+Admin 
+- Email : monevmenara2022@gmail.com
+- Password : menara123
+
+Pengguna
+- Email : usermenara@gmail.com
+- Password : usermenara123
